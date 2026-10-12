@@ -224,17 +224,3 @@ I have green tea
 'Black'
 >>> type(tea_types)
 <class 'tuple'>
-
-...
-
-
-
-
-
-
-
-
-
-
-
-
